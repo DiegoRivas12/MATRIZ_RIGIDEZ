@@ -3,3 +3,6 @@ git commit -m "Configurar despliegue a GitHub Pages"
 git push
 npm run deploy
 
+git remote set-url origin https://github.com/DiegoRivas12/stiffness-matrix.git
+
+git commit -m "Actualización de URLs para despliegue correcto en stiffness-matrix"
