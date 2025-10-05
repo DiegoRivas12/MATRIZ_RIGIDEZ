@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://diegorivas12.github.io/stiffness-matrix",
+  "homepage": "https://diegorivas12.github.io/MATRIZ_RIGIDEZ",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
